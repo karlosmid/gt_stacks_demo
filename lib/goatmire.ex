@@ -12,5 +12,5 @@ defmodule Goatmire do
       "Hello, Gunnar!"
 
   """
-  def greet(name), do: "Hello, #{name}!"
+  def greet(name), do: "Meeeee, #{name}!"
 end
